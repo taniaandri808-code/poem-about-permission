@@ -33,5 +33,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-# Entered in make.fun poetry bounty. No network needed.
-# Poem entry ready for submission.
